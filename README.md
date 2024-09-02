@@ -11,11 +11,9 @@ A pointer in C++ is a variable that stores the memory address of another variabl
 # Syntax:
 data_type *pointer_name;
 
+# Algorithms:
 
-
-#Algorithms:
-
-Displaying Pointer Information:
+ Displaying Pointer Information:
 -Start.
 
 -Declare an integer variable var and initialize it to 10.
