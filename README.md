@@ -14,6 +14,7 @@ data_type *pointer_name;
 # Algorithms:
 
  Displaying Pointer Information:
+ 
 -Start.
 
 -Declare an integer variable var and initialize it to 10.
