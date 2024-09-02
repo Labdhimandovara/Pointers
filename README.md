@@ -49,6 +49,6 @@ int main()
 
 **-Display the value stored in ptr (which is the address of var).**
 
-**-Display the value pointed to by ptr using the dereference operator *.**
+**-Display the value pointed to by ptr using the dereference operator .**
 
 **-End.**
